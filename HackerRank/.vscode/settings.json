@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "IceCreamParlor.C": "cpp",
+        "Queue using Two Stacks.C": "cpp"
+    }
+}
